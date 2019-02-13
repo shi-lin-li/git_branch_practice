@@ -3,7 +3,7 @@
 These are a few of my favorite things:
 
 - Raindrops on roses
-- Whiskers on cute cat
+- Whiskers on cute cat sea lions
 - Bright copper kettles
 - Warm woolen mittens
 - Not editing directly on GitHub
